@@ -19,8 +19,8 @@ Narrativa dos ciclos:
 # -------------------------------------------------
 # 1. Identificacao da Missao e Equipe
 # -------------------------------------------------
-NOME_MISSAO = "Russi"
-NOME_EQUIPE = "Fiapers"
+NOME_MISSAO = "Russi Space"
+NOME_EQUIPE = "Equipe LLE"
 
 # -------------------------------------------------
 # 2. Areas Monitoradas (correlacionadas as colunas da matriz)

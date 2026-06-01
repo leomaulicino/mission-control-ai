@@ -14,8 +14,8 @@ O **Mission Control AI** simula o monitoramento automatizado de uma missão espa
 
 | Campo          | Informação |
 | -------------- | ---------- |
-| Nome da Missão | Russi      |
-| Nome da Equipe | Fiapers    |
+| Nome da Missão | Russi Space|
+| Nome da Equipe | Equipe LLE |
 
 ---
 
@@ -39,7 +39,7 @@ O sistema é baseado na matriz `dados_missao`, uma lista de listas onde cada lin
 
 ### Ciclos Simulados
 
-A missão **Russi** é um satélite experimental de monitoramento atmosférico em órbita baixa. Os 8 ciclos representam a evolução completa da missão: do lançamento estável até o colapso crítico de sistemas e a posterior recuperação.
+A missão **Russi Space** é um satélite experimental de monitoramento atmosférico em órbita baixa. Os 8 ciclos representam a evolução completa da missão: do lançamento estável até o colapso crítico de sistemas e a posterior recuperação.
 
 | Ciclo | Temp | Comunic. | Bateria | Oxigênio | Estabilidade | Descrição                                          |
 | ----- | ---- | -------- | ------- | -------- | ------------ | -------------------------------------------------- |
