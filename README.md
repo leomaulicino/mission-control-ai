@@ -22,7 +22,13 @@ O **Mission Control AI** simula o monitoramento automatizado de uma missão espa
 ## Como Executar
 
 **Pré-requisito:** Python 3.x instalado.
+
 Nenhuma biblioteca externa é necessária. O sistema utiliza apenas recursos nativos do Python.
+
+No terminal, execute o comando:
+```bash
+python mission_control.py
+```
 
 ---
 
